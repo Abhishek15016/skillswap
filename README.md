@@ -1,6 +1,6 @@
 # Skill Swap Platform
 
-A modern web application ]developed by Team CodeX for Odoo Hackathon where users can exchange skills by sending and accepting swap requests, with real-time chat functionality after a request is accepted. The platform includes an admin dashboard for managing users and requests.
+A modern web application  where users can exchange skills by sending and accepting swap requests, with real-time chat functionality after a request is accepted. The platform includes an admin dashboard for managing users and requests.
 
 ## 🚀 Live Demo
 
