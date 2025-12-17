@@ -102,7 +102,7 @@ Make sure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone "https://github.com/23f2003268/Odoo-Hackathon.git"
+git clone https://github.com/Abhishek15016/skillswap.git
 cd Skill-Swap
 ```
 
@@ -334,5 +334,6 @@ If you encounter any issues:
 ---
 
 **Made with ❤️ using React, Flask, and SQLite** 
-#   s k i l l s w a p  
+#   s k i l l s w a p 
+ 
  
